@@ -1,0 +1,46 @@
+/* common shared style */
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0; 
+}
+
+.primary_button{
+    border-radius: 5px;
+    background: #E55473;
+    padding: 12px 22px;
+    cursor: pointer;
+    border: 0;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+/* header section style */
+.header_container{
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    gap: 220px;
+}
+
+.header_info{
+    margin: 40px 0 0 140px;
+}
+.header_title{
+    color: #272727;
+    font-size: 46px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.header_description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.header_image{
+    width: 350px;
+    margin: 40px 140px 0 0;
+}
