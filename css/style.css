@@ -168,4 +168,52 @@ body{
     height: 238px;
 }
 
+/* quote section style */
+.quote_container{
+    border-radius: 5px;
+    text-align: center;
+    margin: 50px;
+    border-style: 0;
+}
 
+input{
+    padding: 11px 33px;
+    border-radius: 8px;
+    background: #FFF;
+}
+
+/* footer section style */
+.end_container{
+    width: auto;
+    height: 250px;
+    background: #111010;
+    text-align: center;
+}
+
+.end_title{
+    color: #E55473;
+    font-size: 28px;
+    font-weight: 800;
+    padding: 70px 0 10px 0;
+    margin: 0;
+}
+
+span {
+    color: #FFF;
+}
+
+.end_description{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0 400px;
+}
+
+.copy_right{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 15px;
+}
