@@ -109,6 +109,32 @@ body{
     margin-top: 15px;
 }
 
+/* shopping section style */
+.shop_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fefdf9;
+    text-align: center;
+}
+
+#shopping_header{
+    margin-bottom: 2%;
+}
+
+.flower_image{
+    width: 65%;
+}
+
+a {
+    text-decoration: none;
+    color: #272727;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
 /* service section style */
 .service_container{
     display: flex;
@@ -141,12 +167,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-size: width: 961px;
+    background-size: 961px;
     height: 320px;
     border-radius: 5px;
     background: rgba(229, 84, 115, 0.05);
-    margin: 90px 0; 
-    gap: 90px;
+    margin: 90px 0;
+    gap: 90px
 }
 
 .discount_info{
@@ -190,12 +216,10 @@ body{
     width: 1440px;
     height: 300px;
     background-repeat: no-repeat;
-    b
 }
 
 .quote_info{
-    margin: 10px 130px 0 0;
-
+    margin: 10px 130px 0 0
 }
 input{
     padding: 14px 83px;
