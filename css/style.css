@@ -172,14 +172,27 @@ body{
 .quote_container{
     border-radius: 5px;
     text-align: center;
-    margin: 50px;
-    border-style: 0;
+    margin: 60px auto;
+    background-image: url('../flower_assets/contact_bg.png');
+    width: 1440px;
+    height: 300px;
+    background-repeat: no-repeat;
+    b
 }
 
+.quote_info{
+    margin-top: 10px
+
+}
 input{
-    padding: 11px 33px;
+    padding: 11px 73px;
     border-radius: 8px;
     background: #FFF;
+    margin: 0;
+}
+
+#quote_title{
+    padding-top: 70px;
 }
 
 /* footer section style */
@@ -188,6 +201,7 @@ input{
     height: 250px;
     background: #111010;
     text-align: center;
+    margin-top: 150px;
 }
 
 .end_title{
