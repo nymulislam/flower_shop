@@ -126,3 +126,22 @@ body{
     font-weight: 700;
     margin: 0;
 }
+
+/* discount section style */
+.discount_container{
+    display: flex;
+    align-items: center;
+    background-size: width: 961px;
+    height: 320px;
+    border-radius: 5px;
+    background: rgba(229, 84, 115, 0.05);
+    margin: 90px 0; 
+    gap: 90px;
+}
+
+.discount_info{
+}
+
+.discount_image{
+    width: 160px;
+}
