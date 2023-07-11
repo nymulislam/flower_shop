@@ -212,7 +212,7 @@ a:hover{
     border-radius: 5px;
     text-align: center;
     margin: auto;
-    background-image: url('./flower_assets/contact_bg.png');
+    background-image: url('/flower_assets/contact_bg.png');
     width: 1440px;
     height: 300px;
     background-repeat: no-repeat;
